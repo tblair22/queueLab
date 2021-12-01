@@ -1,7 +1,7 @@
 /*
 Trent Blair
 12/1/21
-This program implements queue and uses node
+This program implements queue and uses node to enqueue and dequeue
  */
 public class queueNode <T>{
 

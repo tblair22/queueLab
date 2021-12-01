@@ -1,7 +1,7 @@
 /*
 Trent Blair
 12/1/21
-This tests the queue lab
+This tests the queue lab and says what should come out
  */
 public class test {
     public static void main(String[] args) {
